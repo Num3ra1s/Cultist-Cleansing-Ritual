@@ -5,6 +5,8 @@ A warlock chants the dark song to propitiate his shrouded master for infernal po
 
 ![game](https://github.com/Num3ra1s/Cultist-Cleansing-Ritual/assets/18247568/d7b27703-bad3-4127-bdbc-fc6eca777857)
 
+To play: download files and open HTML file in browser.
+
 Credits: 
 - Co-developed with Cooper Dawes and and Minerva Springer Lu
 - Music (Symmetry, Cloud Dancer, Latin Industries) made by Kevin MacLeod (incompetech.com)
